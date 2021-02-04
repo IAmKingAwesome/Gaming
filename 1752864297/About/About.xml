@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>rwmt.Multiplayer</packageId>
+  <name>Multiplayer</name>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <author>RimWorld Multiplayer Team</author>
+  <url>https://github.com/rwmt/Multiplayer</url>
+  <description>&lt;color=red&gt;&lt;b&gt;Important: &lt;/b&gt; This mod should be loaded as early as possible to work properly!
+Requires Rimworld =v1.1.2654 or >=v.1.2.2753&lt;/color&gt;\n
+Multiplayer mod v0.5.1.8 and v0.5.2.0 for Rimworld.
+    
+FAQ - https://hackmd.io/@Swept/rimworldmultiplayerwiki
+Discord - https://discord.gg/S4bxXpv
+  </description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases</downloadUrl>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <loadBefore>
+    <li>UnlimitedHugs.HugsLib</li>
+  </loadBefore>
+</ModMetaData>
