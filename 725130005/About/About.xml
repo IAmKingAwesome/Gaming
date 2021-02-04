@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>P-Music</name>
+  <author>Peppsen</author>
+  <packageId>Peppsen.PMusic</packageId>
+  <description>Adds 31 new fan made songs to RimWorld made by me(Peppsen) and SpacekatTommy</description>
+  <supportedVersions>
+  <li>1.0</li>
+  <li>1.1</li>
+  <li>1.2</li> 
+  </supportedVersions>
+<url>https://steamcommunity.com/sharedfiles/filedetails/?id=725130005</url>
+</ModMetaData> 
